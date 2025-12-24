@@ -1,0 +1,23 @@
+src/
+├── App.tsx
+├── main.tsx
+├── components/
+│   ├── AnimatedBackground.tsx
+│   ├── CompanyDashboard.tsx
+│   ├── EmployeeDashboard.tsx
+│   ├── LoginModal.tsx
+│   ├── Modal.tsx
+│   ├── ProgressCircle.tsx
+│   ├── RoleSelection.tsx
+│   ├── SkillTreePreview.tsx
+│   └── ui/
+│       ├── alert.tsx
+│       ├── button.tsx
+│       ├── card.tsx
+│       ├── checkbox.tsx
+│       ├── input.tsx
+│       ├── label.tsx
+│       └── select.tsx
+├── utils/
+│   └── auth.ts
+└── index.css
